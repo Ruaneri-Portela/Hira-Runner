@@ -6,5 +6,23 @@ This project is about a game aimed at children especially with ADHD, but it can 
 
 The game is a generic endless runner, aiming to collect stars and I got the highest score possible!
 
+# 🚀 Code and tools
+The following tools were used to build this project:
+
+C#;
+
+Unity;
+
+MindWave NeuroSky;
+
+ThinkGear Connector.
+
+# 💻 Requirements
+Before start, make sure you've met the following requirements:
+
+You have all MindWave drivers installed (see instalation guide);
+You have ThinkGear Connector installed;
+You have Unity and a code editor installed (e.g. Visual Studio Code);
+
 IMPORTANT!
 TO SUCCESSFULLY IMPORT INSTALL GIT LFS
