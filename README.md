@@ -27,7 +27,7 @@ You have Unity and a code editor installed (e.g. Visual Studio Code);
 IMPORTANT!;
 TO SUCCESSFULLY IMPORT INSTALL GIT LFS;
 
-#⚡ Running the game
+# ⚡ Running the game
 After installing the requirements, follow these steps to run the game on your computer:
 
 Open the project in Unity;
