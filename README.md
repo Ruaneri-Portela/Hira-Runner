@@ -24,5 +24,15 @@ You have all MindWave drivers installed (see instalation guide);
 You have ThinkGear Connector installed;
 You have Unity and a code editor installed (e.g. Visual Studio Code);
 
-IMPORTANT!
-TO SUCCESSFULLY IMPORT INSTALL GIT LFS
+IMPORTANT!;
+TO SUCCESSFULLY IMPORT INSTALL GIT LFS;
+
+#⚡ Running the game
+After installing the requirements, follow these steps to run the game on your computer:
+
+Open the project in Unity;
+Configure the MindWave Unity Plugin;
+Run ThinkGear Connector and turn on the headset;
+Press "play" button to start the game;
+
+You can compile the game and run it on the target system.
