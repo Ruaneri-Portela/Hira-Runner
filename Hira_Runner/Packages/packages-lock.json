@@ -8,7 +8,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.collab-proxy": {
-      "version": "1.15.18",
+      "version": "1.17.1",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -25,7 +25,7 @@
     },
     "com.unity.ext.nunit": {
       "version": "1.0.6",
-      "depth": 1,
+      "depth": 0,
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
@@ -76,12 +76,6 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
-    "com.unity.package-manager-ui": {
-      "version": "2.2.0",
-      "depth": 0,
-      "source": "builtin",
-      "dependencies": {}
-    },
     "com.unity.performance.profile-analyzer": {
       "version": "1.1.1",
       "depth": 1,
@@ -99,7 +93,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.services.core": {
-      "version": "1.4.0",
+      "version": "1.4.2",
       "depth": 1,
       "source": "registry",
       "dependencies": {
