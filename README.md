@@ -21,11 +21,14 @@ ThinkGear Connector.
 Before start, make sure you've met the following requirements:
 
 You have all MindWave drivers installed (see instalation guide);
+
 You have ThinkGear Connector installed;
+
 You have Unity and a code editor installed (e.g. Visual Studio Code);
 
 IMPORTANT!;
-TO SUCCESSFULLY IMPORT INSTALL GIT LFS;
+
+TO SUCCESSFULLY CLONE USE GIT LFS;
 
 # ⚡ Running the game
 After installing the requirements, follow these steps to run the game on your computer:
