@@ -34,8 +34,11 @@ TO SUCCESSFULLY CLONE USE GIT LFS;
 After installing the requirements, follow these steps to run the game on your computer:
 
 Open the project in Unity;
+
 Configure the MindWave Unity Plugin;
+
 Run ThinkGear Connector and turn on the headset;
+
 Press "play" button to start the game;
 
 You can compile the game and run it on the target system.
