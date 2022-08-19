@@ -39,3 +39,5 @@ Run ThinkGear Connector and turn on the headset;
 Press "play" button to start the game;
 
 You can compile the game and run it on the target system.
+
+This here https://github.com/Ruaneri-Portela/Hira-Runner/blob/main/Hira-Runner%20Win_64%20Executable.7z the Windows 7 or upper version 64 bits executable version!
