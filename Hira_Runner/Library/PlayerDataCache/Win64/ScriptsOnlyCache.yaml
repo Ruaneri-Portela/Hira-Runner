@@ -38,6 +38,8 @@ ScriptsOnlyBuild:
     - TMPro.TMP_SpriteAsset
     - TMPro.TMP_StyleSheet
     - TMPro.TextMeshProUGUI
+    Unity.Timeline.Editor.dll:
+    - TimelinePreferences
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
     - UnityEditor.TestTools.TestRunner.TestListCacheData
@@ -156,59 +158,51 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1622}
+      Script: {instanceID: 10894}
     - Class: 114
-      Script: {instanceID: 1812}
+      Script: {instanceID: 11794}
     - Class: 114
-      Script: {instanceID: 2588}
+      Script: {instanceID: 11878}
     - Class: 114
-      Script: {instanceID: 2680}
+      Script: {instanceID: 12036}
     - Class: 114
-      Script: {instanceID: 2840}
+      Script: {instanceID: 12268}
     - Class: 114
-      Script: {instanceID: 3052}
+      Script: {instanceID: 12366}
     - Class: 114
-      Script: {instanceID: 3080}
+      Script: {instanceID: 12600}
     - Class: 114
-      Script: {instanceID: 3178}
+      Script: {instanceID: 12886}
     - Class: 114
-      Script: {instanceID: 3414}
+      Script: {instanceID: 14324}
     - Class: 114
-      Script: {instanceID: 3722}
+      Script: {instanceID: 14500}
     - Class: 114
-      Script: {instanceID: 3944}
+      Script: {instanceID: 14536}
     - Class: 114
-      Script: {instanceID: 5194}
+      Script: {instanceID: 14850}
     - Class: 114
-      Script: {instanceID: 5374}
+      Script: {instanceID: 14864}
     - Class: 114
-      Script: {instanceID: 5410}
+      Script: {instanceID: 14884}
     - Class: 114
-      Script: {instanceID: 5742}
+      Script: {instanceID: 15300}
     - Class: 114
-      Script: {instanceID: 5758}
+      Script: {instanceID: 15506}
     - Class: 114
-      Script: {instanceID: 5778}
+      Script: {instanceID: 15654}
     - Class: 114
-      Script: {instanceID: 6204}
+      Script: {instanceID: 15686}
     - Class: 114
-      Script: {instanceID: 6414}
+      Script: {instanceID: 16038}
     - Class: 114
-      Script: {instanceID: 6566}
+      Script: {instanceID: 16378}
     - Class: 114
-      Script: {instanceID: 6598}
+      Script: {instanceID: 17092}
     - Class: 114
-      Script: {instanceID: 6958}
+      Script: {instanceID: 17196}
     - Class: 114
-      Script: {instanceID: 7304}
-    - Class: 114
-      Script: {instanceID: 8030}
-    - Class: 114
-      Script: {instanceID: 8138}
-    - Class: 114
-      Script: {instanceID: 8466}
-    - Class: 114
-      Script: {instanceID: 8530}
+      Script: {instanceID: 17520}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -271,37 +265,37 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1622}
+      Script: {instanceID: 10894}
     - Class: 114
-      Script: {instanceID: 1858}
+      Script: {instanceID: 11086}
     - Class: 114
-      Script: {instanceID: 2366}
+      Script: {instanceID: 11578}
     - Class: 114
-      Script: {instanceID: 3080}
+      Script: {instanceID: 12268}
     - Class: 114
-      Script: {instanceID: 3178}
+      Script: {instanceID: 12366}
     - Class: 114
-      Script: {instanceID: 3722}
+      Script: {instanceID: 12886}
     - Class: 114
-      Script: {instanceID: 4588}
+      Script: {instanceID: 13730}
     - Class: 114
-      Script: {instanceID: 4884}
+      Script: {instanceID: 14024}
     - Class: 114
-      Script: {instanceID: 5742}
+      Script: {instanceID: 14850}
     - Class: 114
-      Script: {instanceID: 6414}
+      Script: {instanceID: 15506}
     - Class: 114
-      Script: {instanceID: 6598}
+      Script: {instanceID: 15686}
     - Class: 114
-      Script: {instanceID: 7304}
+      Script: {instanceID: 16378}
     - Class: 114
-      Script: {instanceID: 7350}
+      Script: {instanceID: 16424}
     - Class: 114
-      Script: {instanceID: 8120}
+      Script: {instanceID: 17180}
     - Class: 114
-      Script: {instanceID: 8332}
+      Script: {instanceID: 17388}
     - Class: 114
-      Script: {instanceID: 8796}
+      Script: {instanceID: 17834}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -325,16 +319,16 @@ ScriptsOnlyBuild:
   scriptHashData:
   - hash:
       serializedVersion: 2
-      Hash: a6e561615949734e9f12f9b61661f43e
-    assemblyName: UnityEngine.UI.dll
-    namespaceName: UnityEngine.UI
-    className: Image
-  - hash:
-      serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UIElements
     className: PanelRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: a6e561615949734e9f12f9b61661f43e
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Image
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
@@ -455,12 +449,6 @@ ScriptsOnlyBuild:
     assemblyName: Unity.VisualScripting.Core.dll
     namespaceName: Unity.VisualScripting
     className: UnityOnPointerUpMessageListener
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Boxophobic.Utils.Scripts.dll
-    namespaceName: 
-    className: StyledScriptableObject
   - hash:
       serializedVersion: 2
       Hash: 4de78781075c75589cdbaad292fb6cff
@@ -1363,12 +1351,6 @@ ScriptsOnlyBuild:
     className: UnityOnCollisionExitMessageListener
   - hash:
       serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Boxophobic.Utils.Scripts.dll
-    namespaceName: 
-    className: StyledMonoBehaviour
-  - hash:
-      serializedVersion: 2
       Hash: 8963690ef6f6b05ce03bfd8b5c26e20c
     assemblyName: Cinemachine.dll
     namespaceName: Cinemachine
@@ -1513,12 +1495,6 @@ ScriptsOnlyBuild:
     className: CinemachineStoryboard
   - hash:
       serializedVersion: 2
-      Hash: 1bdd92340661e160c749f1d8baa233df
-    assemblyName: Boxophobic.Utils.Scripts.dll
-    namespaceName: 
-    className: StyledLabelGizmo
-  - hash:
-      serializedVersion: 2
       Hash: 23d669c8bf2983ca4a3df160658318a6
     assemblyName: Cinemachine.dll
     namespaceName: Cinemachine
@@ -1597,12 +1573,6 @@ ScriptsOnlyBuild:
     className: Coletable
   - hash:
       serializedVersion: 2
-      Hash: 48a7f0aa1e09fb60df047423c974aa5d
-    assemblyName: Boxophobic.Utils.Scripts.dll
-    namespaceName: Boxophobic.Utils
-    className: SettingsData
-  - hash:
-      serializedVersion: 2
       Hash: 8220b46879dc5e37db1b940c938f5744
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
@@ -1641,4 +1611,4 @@ ScriptsOnlyBuild:
   scenePathNames:
   - Assets/Scenes/Loading.unity
   - Assets/Scenes/DayRun.unity
-  playerPath: E:/Arquivos/Downloads/Hira-Runner/BuildWin64/My project.exe
+  playerPath: C:/Users/ruane/Downloads/Nova pasta/Hira Runner.exe
