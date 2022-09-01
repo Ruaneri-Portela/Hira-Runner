@@ -37,8 +37,8 @@ public class Loading : MonoBehaviour
             TMPButton.SetActive(false);
             TMPText.SetText("Connected");
             yield return new WaitForSeconds(2);
-            SceneManager.LoadScene(1);
-            SceneManager.UnloadScene(0);
+            SceneManager.LoadScene(3);
+            SceneManager.UnloadScene(2);
         }
         if (m_MindwaveData.eegPower.delta == 0)
         {

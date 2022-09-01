@@ -71,6 +71,8 @@
     <Compile Include="Assets\Scripts\DestroyTrack.cs" />
     <Compile Include="Assets\Scripts\ColetableLife.cs" />
     <Compile Include="Assets\Scripts\Coletable.cs" />
+    <Compile Include="Assets\Scripts\Scene\Login.cs" />
+    <Compile Include="Assets\Scripts\Scene\Menu.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Imported\TextMesh Pro\Shaders\TMPro.cginc" />
